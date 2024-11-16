@@ -3,7 +3,7 @@ title: HiJackiee's Blog
 SEOTitle: HiJackiee's blog
 header-img: img/home_bg.jpg
 email: huxpro@gmail.com
-description: "this is HiJackiee's blog | waiting for luck"
+description: "this is HiJackiee's blog | waiting for me"
 keyword: "HiJackiee, 博客, 个人网站, c++, 嵌入式"
 url: "https://HiJackiee.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,12 +11,12 @@ baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 # Publish posts or collection documents with a future date.
 future: true
 
-# SNS settings
-RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+# # SNS settings
+# RSS: false
+# weibo_username: huxpro
+# zhihu_username: huxpro
+# github_username: huxpro
+# twitter_username: huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -74,7 +74,7 @@ ga_domain:
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "waiting for luck"
+sidebar-about-description: "「可乐.」"
 sidebar-avatar:  # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
