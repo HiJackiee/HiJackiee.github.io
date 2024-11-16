@@ -12,6 +12,6 @@ tags:
 
 # 开始的地方
 
-这是我的第一篇博客
+&ensp;&ensp;大家好，这是我的第一篇博客，有幸和大家一起做技术的分享者！
 
-![](/img/in_posts/blog_start/changli.jpg)
+![和光同尘，与时舒卷.](/img/in_posts/blog_start/changli.jpg)
