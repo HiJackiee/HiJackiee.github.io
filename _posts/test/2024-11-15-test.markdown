@@ -11,3 +11,4 @@ tags:
 ---
 
 # 这是一个测试
+![](/img/home_bg.jpg)
