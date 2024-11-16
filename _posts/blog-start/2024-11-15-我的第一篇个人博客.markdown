@@ -9,6 +9,9 @@ catalog: true
 ---
 
 # 开始的地方
-    这是我的第一篇博客
+
+这是我的第一篇博客
 
 ![](/_posts/blog-start/post_img/changli.jpg)
+
+![](/img/in_posts/blog_start/changli.jpg)
